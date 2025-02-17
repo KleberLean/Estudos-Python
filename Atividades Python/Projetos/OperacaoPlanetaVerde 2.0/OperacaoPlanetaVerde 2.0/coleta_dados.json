@@ -1,0 +1,123 @@
+{
+    "12345678": {
+        "num_casas": 45,
+        "dias_coleta": {
+            "Segunda": {
+                "horario_coleta": "07:00",
+                "tipos_residuos": [
+                    "Orgânico",
+                    "Papel"
+                ]
+            },
+            "Quarta": {
+                "horario_coleta": "08:30",
+                "tipos_residuos": [
+                    "Plástico",
+                    "Metálico"
+                ]
+            },
+            "Sexta": {
+                "horario_coleta": "09:15",
+                "tipos_residuos": [
+                    "Vidro"
+                ]
+            }
+        }
+    },
+    "87654321": {
+        "num_casas": 30,
+        "dias_coleta": {
+            "Terça": {
+                "horario_coleta": "06:45",
+                "tipos_residuos": [
+                    "Orgânico",
+                    "Plástico"
+                ]
+            },
+            "Quinta": {
+                "horario_coleta": "10:00",
+                "tipos_residuos": [
+                    "Papel",
+                    "Metálico"
+                ]
+            }
+        }
+    },
+    "12345679": {
+        "num_casas": 75,
+        "dias_coleta": {
+            "Segunda": {
+                "horario_coleta": "08:00",
+                "tipos_residuos": [
+                    "Orgânico"
+                ]
+            },
+            "Quarta": {
+                "horario_coleta": "09:30",
+                "tipos_residuos": [
+                    "Plástico",
+                    "Vidro"
+                ]
+            },
+            "Sábado": {
+                "horario_coleta": "07:30",
+                "tipos_residuos": [
+                    "Metálico",
+                    "Papel"
+                ]
+            }
+        }
+    },
+    "98765432": {
+        "num_casas": 20,
+        "dias_coleta": {
+            "Terça": {
+                "horario_coleta": "07:15",
+                "tipos_residuos": [
+                    "Vidro",
+                    "Metálico"
+                ]
+            },
+            "Sexta": {
+                "horario_coleta": "08:45",
+                "tipos_residuos": [
+                    "Orgânico",
+                    "Papel",
+                    "Plástico"
+                ]
+            }
+        }
+    },
+    "003": {
+        "dias_coleta": {
+            "Segunda": {
+                "horario_coleta": "07:00",
+                "tipos_residuos": [
+                    "Papel",
+                    "Plástico"
+                ]
+            }
+        },
+        "num_casas": 45
+    },
+    "59612840": {
+        "dias_coleta": {
+            "Terça": {
+                "horario_coleta": "13:00",
+                "tipos_residuos": [
+                    "Orgânico",
+                    "Papel",
+                    "Plástico"
+                ]
+            },
+            "Sexta": {
+                "horario_coleta": "18:00",
+                "tipos_residuos": [
+                    "Papel",
+                    "Vidro"
+                ]
+            }
+        },
+        "num_casas": 55
+    }
+}
